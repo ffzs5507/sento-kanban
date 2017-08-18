@@ -3,6 +3,8 @@ version: '2'
 services:
   database:
     image: postgres
+  elasticsearch:
+    image: elasticsearch:5.1.1
   web:
     build: .
     command: rails s -b 0.0.0.0
@@ -14,5 +16,4 @@ services:
       - .:/application
     links:
       - database
-    extra_hosts:
-      - "elasticsearch:127.0.0.1"
+      - elasticsearch
