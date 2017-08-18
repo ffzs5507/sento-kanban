@@ -23,7 +23,7 @@ group :test do
   gem 'shoulda-matchers', '~> 3.1.2'
   gem 'machinist', '~> 2.0'
   gem 'database_cleaner', '~> 1.6.1'
-  gem 'capybara', '~> 2.11.0'
+  gem 'capybara', '~> 2.15.1'
   gem 'capybara-screenshot', '~> 1.0.14'
   gem 'poltergeist', '~> 1.12.0'
 end
