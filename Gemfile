@@ -19,7 +19,7 @@ group :test do
   gem 'cucumber-rails', '~> 1.4.5', require: false
   gem 'pg'
   gem 'ffaker', '~> 2.3.0'
-  gem 'rspec-rails', '~> 3.5'
+  gem 'rspec-rails', '~> 3.6'
   gem 'shoulda-matchers', '~> 3.1.1'
   gem 'machinist', '~> 2.0'
   gem 'database_cleaner', '~> 1.5.3'
