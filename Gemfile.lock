@@ -249,7 +249,7 @@ GEM
       activemodel
       elasticsearch (>= 1)
       hashie
-    shoulda-matchers (3.1.1)
+    shoulda-matchers (3.1.2)
       activesupport (>= 4.0.0)
     simple_form (3.3.1)
       actionpack (> 4, < 5.1)
@@ -301,7 +301,7 @@ DEPENDENCIES
   rspec-rails (~> 3.6)
   rubocop
   sento-kanban!
-  shoulda-matchers (~> 3.1.1)
+  shoulda-matchers (~> 3.1.2)
 
 BUNDLED WITH
    1.10.6
