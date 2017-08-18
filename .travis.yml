@@ -9,6 +9,7 @@ install: echo 'Nothing to install, we are using Docker :)'
 
 before_script:
   - sudo sysctl -w vm.max_map_count=262144
+  - sudo service elasticsearch restart
   - cp docker-compose.travis.yml docker-compose.yml
 
 script:
