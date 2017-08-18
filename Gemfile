@@ -25,7 +25,7 @@ group :test do
   gem 'database_cleaner', '~> 1.6.1'
   gem 'capybara', '~> 2.15.1'
   gem 'capybara-screenshot', '~> 1.0.14'
-  gem 'poltergeist', '~> 1.12.0'
+  gem 'poltergeist', '~> 1.16.0'
 end
 
 group :development do
