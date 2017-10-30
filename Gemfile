@@ -22,7 +22,7 @@ group :test do
   gem 'rspec-rails', '~> 3.7'
   gem 'shoulda-matchers', '~> 3.1.2'
   gem 'machinist', '~> 2.0'
-  gem 'database_cleaner', '~> 1.6.1'
+  gem 'database_cleaner', '~> 1.6.2'
   gem 'capybara', '~> 2.15.4'
   gem 'capybara-screenshot', '~> 1.0.17'
   gem 'poltergeist', '~> 1.16.0'
