@@ -33,7 +33,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'responders', '~> 2.3.0'
   s.add_dependency 'modal-responder-rails', '~> 1.0.3'
   s.add_dependency 'octicons_helper', '~> 3.0.1'
-  s.add_dependency 'simple_form', '~> 3.3.1'
+  s.add_dependency 'simple_form', '>= 3.3.1', '< 3.6.0'
   s.add_dependency 'pace-rails', '~> 0.1.3'
   s.add_dependency 'unobtrusive_flash', '~> 3.3.1'
   s.add_dependency 'ranked-model', '~> 0.4.0'
