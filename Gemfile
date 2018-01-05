@@ -18,7 +18,7 @@ gem 'dragula-rails', git: 'https://github.com/Sento/dragula-rails'
 group :test do
   gem 'cucumber-rails', '~> 1.5.0', require: false
   gem 'pg'
-  gem 'ffaker', '~> 2.7.0'
+  gem 'ffaker', '~> 2.8.0'
   gem 'rspec-rails', '~> 3.7'
   gem 'shoulda-matchers', '~> 3.1.2'
   gem 'machinist', '~> 2.0'

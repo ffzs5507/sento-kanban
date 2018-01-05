@@ -132,7 +132,7 @@ GEM
     execjs (2.7.0)
     faraday (0.13.1)
       multipart-post (>= 1.2, < 3)
-    ffaker (2.7.0)
+    ffaker (2.8.0)
     ffi (1.9.18)
     gemoji (2.1.0)
     gherkin (4.1.3)
@@ -310,7 +310,7 @@ DEPENDENCIES
   cucumber-rails (~> 1.5.0)
   database_cleaner (~> 1.6.2)
   dragula-rails!
-  ffaker (~> 2.7.0)
+  ffaker (~> 2.8.0)
   machinist (~> 2.0)
   pg
   poltergeist (~> 1.17.0)
