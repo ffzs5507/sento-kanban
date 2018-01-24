@@ -72,9 +72,9 @@ GEM
     ast (2.3.0)
     autoprefixer-rails (7.2.5)
       execjs
-    bootstrap (4.0.0.beta3)
+    bootstrap (4.0.0)
       autoprefixer-rails (>= 6.0.3)
-      popper_js (>= 1.12.3, < 2)
+      popper_js (>= 1.12.9, < 2)
       sass (>= 3.5.2)
     builder (3.2.3)
     capybara (2.17.0)
