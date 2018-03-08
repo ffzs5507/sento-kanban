@@ -10,7 +10,7 @@ PATH
   specs:
     sento-kanban (0.1.0)
       bootstrap (~> 4.0.0.alpha5)
-      chosen-rails (~> 1.5.2)
+      chosen-rails (>= 1.5.2, < 1.9.0)
       gemoji (~> 2.1.0)
       interactor (~> 3.1.0)
       modal-responder-rails (~> 1.0.3)
@@ -87,7 +87,7 @@ GEM
     capybara-screenshot (1.0.18)
       capybara (>= 1.0, < 3)
       launchy
-    chosen-rails (1.5.2)
+    chosen-rails (1.8.2)
       coffee-rails (>= 3.2)
       railties (>= 3.0)
       sass-rails (>= 3.2)
