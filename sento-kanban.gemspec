@@ -25,7 +25,7 @@ Gem::Specification.new do |s|
 
   s.required_ruby_version = '~> 2.0'
 
-  s.add_dependency 'rails', '~> 5.0.0'
+  s.add_dependency 'rails', '>= 5.0', '< 5.2'
   s.add_dependency 'slim-rails', '~> 3.1.1'
   s.add_dependency 'bootstrap', '~> 4.0.0.alpha5'
   # s.add_dependency 'dragula-rails'
