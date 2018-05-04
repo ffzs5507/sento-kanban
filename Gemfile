@@ -24,7 +24,7 @@ group :test do
   gem 'machinist', '~> 2.0'
   gem 'database_cleaner', '~> 1.7.0'
   gem 'capybara', '~> 2.18.0'
-  gem 'capybara-screenshot', '~> 1.0.18'
+  gem 'capybara-screenshot', '~> 1.0.19'
   gem 'poltergeist', '~> 1.17.0'
 end
 
