@@ -118,7 +118,7 @@ GEM
       nokogiri (~> 1.5)
       railties (>= 4, < 5.2)
     cucumber-wire (0.0.1)
-    database_cleaner (1.6.2)
+    database_cleaner (1.7.0)
     diff-lcs (1.3)
     elasticsearch (6.0.2)
       elasticsearch-api (= 6.0.2)
@@ -308,7 +308,7 @@ DEPENDENCIES
   capybara (~> 2.18.0)
   capybara-screenshot (~> 1.0.18)
   cucumber-rails (~> 1.5.0)
-  database_cleaner (~> 1.6.2)
+  database_cleaner (~> 1.7.0)
   dragula-rails!
   ffaker (~> 2.9.0)
   machinist (~> 2.0)
