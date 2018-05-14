@@ -183,8 +183,8 @@ GEM
     perfect-scrollbar-rails (0.6.15)
       railties (>= 3.2, < 6.0)
     pg (0.21.0)
-    poltergeist (1.17.0)
-      capybara (~> 2.1)
+    poltergeist (1.18.0)
+      capybara (>= 2.1, < 4)
       cliver (~> 0.3.1)
       websocket-driver (>= 0.2.0)
     popper_js (1.12.9)
@@ -313,7 +313,7 @@ DEPENDENCIES
   ffaker (~> 2.9.0)
   machinist (~> 2.0)
   pg
-  poltergeist (~> 1.17.0)
+  poltergeist (~> 1.18.0)
   rspec-rails (~> 3.7)
   rubocop
   sento-kanban!
